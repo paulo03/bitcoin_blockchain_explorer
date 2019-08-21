@@ -17,7 +17,7 @@ a.pending (to check pending balance or unconfirmed coins)
 tx = Hash('PUT SOME BITCOIN HASH HERE')
 
 tx.tx (to check the Hash you are looking at)
-tx.block (to check the block number of the hash)
+\ntx.block (to check the block number of the hash)
 tx.confirmations (to check how many confirmations the block has)
 ...
 tx.last_tx (to check the previous hashes the current hash is associated with)
